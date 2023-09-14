@@ -1,12 +1,13 @@
 {
-  "name": "api-example-1",
+  "name": "simple_to_do",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Prometeo",
+  "author": "Joaquin Beltran",
   "license": "ISC",
   "dependencies": {
     "app-root-path": "^3.0.0",
